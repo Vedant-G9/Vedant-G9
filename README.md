@@ -1,26 +1,66 @@
-<h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Vedantgiri Gosai.<br> Nice to meet you!</h1>
+### Hi there 👋
 
+<!--
+**jeelpatel1612/jeelpatel1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
+- 🔭 I’m currently working on "memepedia" - a Wikipedia for memes.
+- 🌱 I’m currently learning React Native🤓.
+- 👯 I’m looking to collaborate on JavaScript projects🤝.
+- 🤔 I’m looking for help with [TCS-CodeVita-practice-problems](https://github.com/akatsuki-org/TCS-CodeVita-practice-problems)🧾
+- 💬 Ask me about anything😁.
+- 📫 How to reach me: [⏬Social media](https://github.com/jeelpatel1612/jeelpatel1612#-social), [📧email me](mailto:jeelpdev@gmail.com?subject=[GitHub]%20Source%20profile)
+- ⚡ Fun fact: I might be a simulation💻.
+<!-- - 😄 Pronouns: -->
 
-<p align="center">Currently an undergraduate pursuing my B.E. in Information & Technology from VVP Engineering college(Rajkot). Interested in <b>Web & Android developmnent </b>, and I have little knowledge about these technology, its share on <b>Open source community</b></p>
+<br />
 
- *<h3>Languages I am currently playing around with:</h3>*
+<!-- ![my github stats - light](https://github-readme-stats.vercel.app/api?username=jeelpatel1612) -->
+![my github stats - dark](https://github-readme-stats.vercel.app/api?username=jeelpatel1612&show_icons=true&count_private=true&theme=dark)
 
-<img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java" height="30">  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-071a52?style=for-the-badge&logo=kotlin" height="30">  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript" height="30"> <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="30">  <img alt="Nodejs" src="https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white" height="30"> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="30"> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
+<!-- TODO : Dev Metrics : https://github.com/anmol098/waka-readme-stats -->
 
-### *! To know more about me visit my [portfolio](https://akashsite.netlify.app/)*
+<br />
 
- ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=pyvedantgiri&show_icons=true&theme=highcontrast)
+### 🚀 Skills
+<!-- char. for indicating : %20 🟢 ⚪ -->
+![python](https://img.shields.io/badge/python%20🟢🟢🟢⚪⚪-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)  
+![javascript](https://img.shields.io/badge/javascript%20🟢🟢🟢🟢⚪-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white&labelColor=black)  
+![reactjs](https://img.shields.io/badge/react%20🟢🟢🟢🟢⚪-%233776AB.svg?&style=flat-square&logo=react&logoColor=white)  
+![nodejs](https://img.shields.io/badge/nodejs%20🟢🟢🟢⚪⚪-%233776AB.svg?&style=flat-square&logo=nodejs&logoColor=white) <!-- TODO: upload icon -->  
+![html](https://img.shields.io/badge/html%20🟢🟢🟢🟢⚪-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)  
+![css](https://img.shields.io/badge/css%20🟢🟢🟢🟢⚪-%23239120.svg?&style=flat-square&logo=css3&logoColor=white)  
 
-*<h3>Where to find me:</h3>*
-[![Linkedin Badge](https://img.shields.io/badge/-AkashChauhan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-chauhan-3616321a4/)](https://www.linkedin.com/in/akash-chauhan-3616321a4/)
-[![Portfolio Badge](https://img.shields.io/badge/-AkashChauhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@19it197)](https://medium.com/@19it197)
-[![Gmail Badge](https://img.shields.io/badge/-akashchauhan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ac8572611@gmail.com)](mailto:ac8572611@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-AkashChauhan-orange?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/coding.7.7.7)](https://www.instagram.com/coding.7.7.7)
-[![Twitter Badge](https://img.shields.io/badge/-AkashChauhan-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ac8572611)](https://twitter.com/ac8572611)
- 
- <a href="https://dev.to/akash52">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Akash Chauhan's DEV Profile" height="30" width="30">
-</a>
+<br />
 
- [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<!-- reference : https://github.com/anuraghazra/github-readme-stats -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeelpatel1612)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🎮🕹 Games
+<!-- TODO: get public links -->
+[<img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />](https://jeel/)
+[<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://jeel/)
+
+<br />
+
+### 👨👩 Social
+<!--
+reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
+-->
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeel/)
+[<img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/story/10872163)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/__j_e_e_l__/)
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+[<img src = "https://img.shields.io/badge/reddit-%23FF5722.svg?&style=for-the-badge&logo=reddit&logoColor=white">](https://www.reddit.com/user/__j_e_e_l__)
+<a href="https://twitter.com/__j_e_e_l__"><img src="https://img.shields.io/twitter/follow/__j_e_e_l__?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://github.com/jeelpatel1612"><img src="https://img.shields.io/github/followers/jeelpatel1612.svg?label=GitHub&style=social" alt="GitHub"></a>
+<!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/__j_e_e_l__) -->
+
+⭐️ From [jeelpatel1612](https://github.com/jeelpatel1612)
