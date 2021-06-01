@@ -45,5 +45,5 @@ reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
 [<img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/story/10872163)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vedant.gosai/)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vedantgiri.gosai/)
-<a href="https://twitter.com/vedantgirigosai"><img src="https://img.shields.io/twitter/follow/__j_e_e_l__?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://twitter.com/vedantgirigosai"><img src="https://img.shields.io/twitter/follow/vedantgirigosai?label=Twitter&style=social" alt="Twitter"></a>
 <a href="https://github.com/pyvedantgiri"><img src="https://img.shields.io/github/followers/pyvedantgiri.svg?label=GitHub&style=social" alt="GitHub"></a>
