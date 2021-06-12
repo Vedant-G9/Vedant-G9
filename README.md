@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on JavaScript projects🤝.
 - 🤔 I’m looking for help with [TCS-CodeVita-practice-problems](https://github.com/akatsuki-org/TCS-CodeVita-practice-problems)🧾
 - 💬 Ask me about anything😁.
-- 📫 How to reach me: [⏬Social media](https://github.com/pyvedantgiri), [📧email me](mailto:vedantgosai007@gmail.com?subject=[GitHub]%20Source%20profile)
+- 📫 How to reach me: [⏬Social media](https://github.com/vedant-G9), [📧email me](mailto:vedantgosai007@gmail.com?subject=[GitHub]%20Source%20profile)
 - ⚡ Fun fact: I might be a simulation💻.
 <!-- - 😄 Pronouns: -->
 
